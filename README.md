@@ -19,7 +19,7 @@ A computer engineer student from Cumhuriyet University 💻.
 
 ### 🛠 &nbsp; Tech Stack
 
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width=40> |  | <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40"> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"> | 
+  | <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40"> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"> | 
 
  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40"> |   | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"> | 
 
