@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Zeynep</h1>
 <h3 align="center">I graduated from Cumhuriyet University with a degree in computer engineering.</h3>
 
-- 🌱 I’m currently learning **learning about Mobile development**
+- 🌱 I’m currently learning **learning about IOS development**
 
 - 👨‍💻 Connect With Me [https://www.linkedin.com/in/zeynep-gedik-81b3801a3/](https://www.linkedin.com/in/zeynep-gedik-81b3801a3/)
 
