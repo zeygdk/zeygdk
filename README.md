@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="GIF" src="xhttps://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" />
+<img alt="GIF" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" />
  <p/>
 <h1 align="center">Hi 👋, I'm Zeynep</h1>
 <h3 align="center">I graduated from Cumhuriyet University with a degree in computer engineering.</h3>
