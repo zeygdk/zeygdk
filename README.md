@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zeynep-gedik-81b3801a3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:dev.zeynepgedik@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:zeynepgedik.gdk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://twitter.com/zeynepgedikdev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 </p>
 
@@ -16,7 +16,7 @@
 - 🏗️ I care about **Clean Architecture**, testable code and polished, accessible UI
 - 🚀 Currently building production SwiftUI apps end-to-end — from the app itself to its **PHP / MySQL backend**
 - 🎓 B.Sc. in **Computer Engineering** — Sivas Cumhuriyet University
-- 📫 Reach me at **dev.zeynepgedik@gmail.com**
+- 📫 Reach me at **zeynepgedik.gdk@gmail.com**
 
 ---
 
