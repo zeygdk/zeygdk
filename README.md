@@ -99,11 +99,3 @@ Private vault with **biometric lock**, secure notes and hidden photo albums: **M
 #### 💬 [FirebaseSmartReply](https://github.com/zeygdk/firebasesmartreply) — Android
 On-device suggested replies using **Firebase ML Kit Smart Reply**.
 
----
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zeygdk&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeygdk&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
