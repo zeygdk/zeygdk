@@ -11,7 +11,7 @@
 
 ### 👩‍💻 About me
 
-- 📱 iOS developer based in **İstanbul**, building native apps with **Swift**, **SwiftUI** and **UIKit**
+- 📱 iOS developer based in **İstanbul & Bursa, Türkiye**, building native apps with **Swift**, **SwiftUI** and **UIKit**
 - 🤖 Background in native **Android** development with **Kotlin** & **Jetpack Compose**
 - 🏗️ I care about **Clean Architecture**, testable code and polished, accessible UI
 - 🚀 Currently building production SwiftUI apps end-to-end — from the app itself to its **PHP / MySQL backend**
