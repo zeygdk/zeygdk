@@ -61,18 +61,34 @@ A full-featured parking app built with **SwiftUI** and **Clean Architecture**, b
 - **EV charging**: operator list, QR-code scan to start a charge, live session tracking
 - Vehicle management, activity history, authentication & profile
 
+<p align="center">
+  <img src="assets/parkbul_map.jpg" width="210" alt="parkbul_map"/>
+  <img src="assets/parkbul_detail.jpg" width="210" alt="parkbul_detail"/>
+  <img src="assets/parkbul_onboarding.jpg" width="210" alt="parkbul_onboarding"/>
+</p>
+
 #### 🧒 KidsWorld — Educational games for kids (iOS · private)
 A SwiftUI learning app for children with 8 playable categories and age-based content.
 - Reusable visual game engine (quiz, matching and more) with XP, streaks and badges
 - Guest / email / PIN sign-in and a protected **Parent Zone**
 - Light-first adaptive theme, Clean Architecture with DI and a mockable data layer
 
-#### 🛒 BarcodeScanner — Product & halal-certificate scanner (iOS · private)
+<p align="center">
+  <img src="assets/kidsworld_home.jpg" width="210" alt="kidsworld_home"/>
+  <img src="assets/kidsworld_game.jpg" width="210" alt="kidsworld_game"/>
+</p>
+
+#### 🛒 Barcomoni — Product & halal-certificate scanner (iOS · private)
 A **UIKit** app that scans product barcodes and shows ingredients, allergens and halal certification, connected to a REST API.
 - Real-time barcode scanning with **AVFoundation**
 - Product, brand and category browsing, search and favorites
 - Personal allergen profile, user product submissions and an **admin approval dashboard**
 - Push & in-app notifications, deep links, secure token storage, **Turkish / English** localization
+
+<p align="center">
+  <img src="assets/barcomoni_home.jpg" width="210" alt="barcomoni_home"/>
+  <img src="assets/barcomoni_detail.jpg" width="210" alt="barcomoni_detail"/>
+</p>
 
 #### 📰 [TheNewsApp](https://github.com/zeygdk/TheNewsApp) — Android
 News reader built with **Jetpack Compose**, **Clean Architecture**, **Hilt**, **Room** and **Paging 3** — onboarding, infinite feed, search and offline bookmarks.
