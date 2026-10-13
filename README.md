@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/zeynep-gedik-81b3801a3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:zeynepgedik.gdk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://medium.com/@zeynepgedik.gdk"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://twitter.com/zeynepgedikdev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 </p>
 
@@ -61,22 +62,11 @@ A full-featured parking app built with **SwiftUI** and **Clean Architecture**, b
 - **EV charging**: operator list, QR-code scan to start a charge, live session tracking
 - Vehicle management, activity history, authentication & profile
 
-<p align="center">
-  <img src="assets/parkbul_map.jpg" width="210" alt="parkbul_map"/>
-  <img src="assets/parkbul_detail.jpg" width="210" alt="parkbul_detail"/>
-  <img src="assets/parkbul_onboarding.jpg" width="210" alt="parkbul_onboarding"/>
-</p>
-
 #### 🧒 KidsWorld — Educational games for kids (iOS · private)
 A SwiftUI learning app for children with 8 playable categories and age-based content.
 - Reusable visual game engine (quiz, matching and more) with XP, streaks and badges
 - Guest / email / PIN sign-in and a protected **Parent Zone**
 - Light-first adaptive theme, Clean Architecture with DI and a mockable data layer
-
-<p align="center">
-  <img src="assets/kidsworld_home.jpg" width="210" alt="kidsworld_home"/>
-  <img src="assets/kidsworld_game.jpg" width="210" alt="kidsworld_game"/>
-</p>
 
 #### 🛒 Barcomoni — Product & halal-certificate scanner (iOS · private)
 A **UIKit** app that scans product barcodes and shows ingredients, allergens and halal certification, connected to a REST API.
@@ -87,7 +77,13 @@ A **UIKit** app that scans product barcodes and shows ingredients, allergens and
 
 <p align="center">
   <img src="assets/barcomoni_home.jpg" width="210" alt="barcomoni_home"/>
+  <img src="assets/barcomoni_search.jpg" width="210" alt="barcomoni_search"/>
   <img src="assets/barcomoni_detail.jpg" width="210" alt="barcomoni_detail"/>
+</p>
+
+<p align="center">
+  <img src="assets/barcomoni_categories.jpg" width="210" alt="barcomoni_categories"/>
+  <img src="assets/barcomoni_brands.jpg" width="210" alt="barcomoni_brands"/>
 </p>
 
 #### 📰 [TheNewsApp](https://github.com/zeygdk/TheNewsApp) — Android
